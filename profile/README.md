@@ -7,7 +7,7 @@ We also want to bring security back to the forefront because it is often forgott
 > 👀 The people behind the project are also behind the [NodeSecure](https://github.com/NodeSecure) project.
 
 <p align="center">
-<img src="./topcli.gif">
+<img src="https://i.imgur.com/iX2eEdz.gif">
 </p>
 
 ### ❤️ Contributors
