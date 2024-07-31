@@ -6,9 +6,6 @@ At TopCli, we **prioritize security**, a crucial aspect often overlooked or unde
 
 Join us in our journey to build robust and secure CLI solutions for the Node.js community!
 
-> [!NOTE]
-> 👀 The people behind the project are also behind the [NodeSecure](https://github.com/NodeSecure) project.
-
 <p align="center">
 <img src="https://i.imgur.com/iX2eEdz.gif">
 </p>
@@ -17,3 +14,6 @@ Join us in our journey to build robust and secure CLI solutions for the Node.js 
 We welcome new contributors. Please feel free to join us on Discord and help on the different projects.
 
 [![OpenAlly](https://discordapp.com/api/guilds/640183220452720650/embed.png?style=banner2)](https://discord.gg/4Wn8rjAtB4)
+
+### 👥 Open Alliance
+The maintainers of TopCli are also the creators behind successful projects like [NodeSecure](https://github.com/NodeSecure) (see [OpenAlly](https://github.com/OpenAlly)).
