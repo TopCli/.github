@@ -1,9 +1,12 @@
 ## 👋 Welcome visitor
 
-TopCli is an organization that aims to create open-source Node.js CLI packages. Our goal is to bring developers together with the common goal of building quality packages that will be actively maintained. Any initiative or idea is welcome as long as it contributes to the improvement of the CLI experience in Node.js.
+**TopCli** is dedicated to creating open-source Node.js CLI packages. Our mission is to unite developers with a shared passion for building high-quality, actively maintained CLI tools. We welcome all initiatives and ideas that contribute to enhancing the CLI experience in Node.js.
 
-We also want to bring security back to the forefront because it is often forgotten or underestimated by package designers.
+At TopCli, we **prioritize security**, a crucial aspect often overlooked or underestimated by package designers. By keeping security at the forefront of our development process, we aim to ensure that our tools are not only effective but also safe to use.
 
+Join us in our journey to build robust and secure CLI solutions for the Node.js community!
+
+> [!NOTE]
 > 👀 The people behind the project are also behind the [NodeSecure](https://github.com/NodeSecure) project.
 
 <p align="center">
@@ -11,4 +14,6 @@ We also want to bring security back to the forefront because it is often forgott
 </p>
 
 ### ❤️ Contributors
-We welcome new contributors. Please feel free to contact us (`fraxken#8064` on [discord](https://discord.com/)) and help on the different projects.
+We welcome new contributors. Please feel free to join us on Discord and help on the different projects.
+
+[![OpenAlly](https://discordapp.com/api/guilds/640183220452720650/embed.png?style=banner2)](https://discord.gg/4Wn8rjAtB4)
