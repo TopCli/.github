@@ -1,6 +1,6 @@
 ## 👋 Welcome visitor
 
-**TopCli** is dedicated to creating open-source Node.js CLI packages. Our mission is to unite developers with a shared passion for building high-quality, actively maintained CLI tools. We welcome all initiatives and ideas that contribute to enhancing the CLI experience in Node.js.
+**TopCli** is dedicated to creating open-source Node.js CLI packages. Our mission is to build high-quality, actively maintained CLI tools. We welcome all initiatives and ideas that contribute to enhancing the CLI experience in Node.js.
 
 At TopCli, we **prioritize security**, a crucial aspect often overlooked or underestimated by package designers. By keeping security at the forefront of our development process, we aim to ensure that our tools are not only effective but also safe to use.
 
